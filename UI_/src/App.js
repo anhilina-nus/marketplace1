@@ -517,7 +517,8 @@ const contractABI = [
 ];
 
 // Address of a deployed contract
-const contractAddress = "0xa53dd5FCbcA4b4D3B14F43d963a39Af8410A73a0";
+//Put your smart contract address 
+const contractAddress = "";
 
 export default function ComputeMarketplace() {
   const [userType, setUserType] = useState("client");
